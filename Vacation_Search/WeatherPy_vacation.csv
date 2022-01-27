@@ -12,7 +12,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 24,Denpasar,ID,87.46,few clouds,-8.65,115.2167,ASTON Denpasar Hotel & Convention Center
 40,Buchanan,LR,76.28,clear sky,5.8808,-10.0467,Kamaneahn Hotel Inc
 43,Sabang,ID,82.11,broken clouds,5.8933,95.3214,Hotel Citra
-57,Micheweni,TZ,79.12,scattered clouds,-4.9667,39.8333,
 65,Avarua,CK,80.65,broken clouds,-21.2078,-159.775,Paradise Inn
 72,Vaini,TO,80.31,clear sky,-21.2,-175.2,Keleti Beach Resort
 74,Hervey Bay,AU,86.11,overcast clouds,-25.2986,152.8535,Shelly Bay Resort
@@ -102,7 +101,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 433,Tairua,NZ,78.26,broken clouds,-37.0167,175.85,Pacific Harbour Villas
 438,Kochi,IN,75.18,overcast clouds,9.9399,76.2602,Hotel Abad
 442,Mangaratiba,BR,77.04,clear sky,-22.9597,-44.0406,Portobello Resort & Safari
-446,Wattegama,LK,76.12,overcast clouds,6.7989,81.4808,
 447,Jertih,MY,84.07,broken clouds,5.7336,102.4897,One Utama Hotel
 450,Ulladulla,AU,83.77,overcast clouds,-35.35,150.4667,Sandpiper Motel
 451,Banyuwangi,ID,88.81,broken clouds,-8.2325,114.3576,Dannu's Homestay
